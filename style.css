@@ -1,0 +1,27 @@
+body{
+  font-size: 24px;
+  background-image: url(https://img.freepik.com/vector-gratis/diseno-fondo-partido-futbol-plantilla-diseno-fondo-copa-futbol-2022-ilustracion-vectorial_29865-4234.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  font-family: 'Oswald', sans-serif ;
+  important
+}
+p{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+
+
+.uno {
+  font-size: 80px !important;
+  color: red;
+}
+.dos{
+  font-size: 80px !important;
+  color: green;
+}
